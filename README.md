@@ -3,3 +3,4 @@
 
 /usr/bin/lua
 /usr/lib/lua
+/usr/bin/python
