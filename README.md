@@ -1,2 +1,5 @@
 # advent-of-code
 2023
+
+/usr/bin/lua
+/usr/lib/lua
